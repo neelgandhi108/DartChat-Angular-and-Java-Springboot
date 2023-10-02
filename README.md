@@ -1,7 +1,7 @@
 
 # DartChat : Multiuser Chat Application with Angular and Spring Boot
 
-![Chat Application](https://github.com/neelgandhi108/DartChat-Angular-and-Java-Springboot/raw/master/Dartchat.png)
+![Chat Application](https://github.com/neelgandhi108/DartChat-Angular-and-Java-Springboot/blob/main/Dartchat.png)
 
 This project combines the power of Spring Boot and Angular to create a multiuser chat application with WebSocket, STOMP, and RabbitMQ integration. Below, you'll find a brief overview of the project's features, the components used, and instructions on how to get started.
 
@@ -14,7 +14,7 @@ This project combines the power of Spring Boot and Angular to create a multiuser
 5. Multiple users can send messages to a common chat
 6. Log out notifications are displayed when users leave the chat
 
-![Chat Login](https://github.com/neelgandhi108/DartChat-Angular-and-Java-Springboot/raw/master/Dartchat_Login.png)
+![Chat Login](https://github.com/neelgandhi108/DartChat-Angular-and-Java-Springboot/blob/main/Dartchat_Login.png)
 
 ### Components Utilized:
 
